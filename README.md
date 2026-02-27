@@ -71,7 +71,7 @@ All settings are **runtime-global** and can be changed in Map Settings mid-game.
 ### Project Structure
 
 ```
-minimalwire_1.0.9/
+minimalwire/
 ├── info.json        # Mod metadata (name, version, description)
 ├── control.lua      # Core logic — MST algorithm, event handlers, tick scheduling
 ├── data.lua         # Prototype definitions (hidden dummy pole)
