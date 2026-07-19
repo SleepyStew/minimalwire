@@ -56,8 +56,6 @@ All settings are **runtime-global** and can be changed in Map Settings mid-game.
 
 ## 🤝 Contributing
 
-**This mod is now community-maintained!** The original author ([SleepyStew](https://github.com/SleepyStew)) no longer has time to actively maintain it, so contributions from the community are very welcome.
-
 ### How to Contribute
 
 - **Bug Reports** – Open an issue with steps to reproduce, your mod settings, and any error logs
